@@ -1,8 +1,0 @@
-# inclde <stdio.h>
-
-int main()
-{ 
-   printf("hello world\n")
-   printf("xiaoxiao\n")
-   return 0;
-}
